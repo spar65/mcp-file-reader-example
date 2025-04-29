@@ -102,4 +102,4 @@ using mcp file-reader tell me what is in test.txt
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
